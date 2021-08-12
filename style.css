@@ -19,6 +19,8 @@
 .content-box {
   width: 300px;
   position: relative;
+  margin:0 auto;
+  background-color: #eeeeee;
 }
 
 .step {
@@ -30,14 +32,10 @@
   color: #fff;
 }
 
-.content-box {
-  margin-right: 30px;
-  background-color: #eeeeee;
-}
-
 .content-box:nth-child(last) {
   margin-right: 0;
 }
+
 .content-top1 {
   background-image: url(img/flow01.png);
   height: 150px;
@@ -80,7 +78,7 @@
   .content-box {
     display: block;
     width: 90%;
-    margin: 20px;
+    margin: 20px auto;
   }
 
   .content-box:nth-child(last) {
