@@ -19,8 +19,9 @@
 .content-box {
   width: 300px;
   position: relative;
-  margin:0 auto;
+  margin-right:30px;
   background-color: #eeeeee;
+  padding: 10px;
 }
 
 .step {
@@ -71,14 +72,14 @@
   }
 
   .main {
-    width: 100%;
+    width: 90%;
     display: block;
   }
 
   .content-box {
     display: block;
     width: 90%;
-    margin: 20px auto;
+    margin: 20px;
   }
 
   .content-box:nth-child(last) {
