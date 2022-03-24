@@ -72,13 +72,13 @@
   }
 
   .main {
-    width: 90%;
+    width: 100%;
     display: block;
   }
 
   .content-box {
     display: block;
-    width: 100%;
+    width: 90%;
     margin: 20px auto;
   }
 
