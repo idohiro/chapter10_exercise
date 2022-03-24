@@ -78,8 +78,8 @@
 
   .content-box {
     display: block;
-    width: 90%;
-    margin: 20px;
+    width: 100%;
+    margin: 20px auto;
   }
 
   .content-box:nth-child(last) {
